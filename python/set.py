@@ -1,0 +1,7 @@
+x = set()
+x.add(1)
+x.add(2)
+x.add(3)
+x.add(2)
+x.remove(1)
+print(f"The total nember of values in set are {len(x)}")
